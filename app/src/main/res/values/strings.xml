@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">USSD test</string>
+    <string name="cek_last_transaction">Cek Last Transaction</string>
+    <string name="accessibility_service_description">USSD TESTING</string>
+    <string name="pln_pra_transaction">PLN Pra Bayar</string>
+    <string name="pln_pasca_transaction">PLN Pasca Bayar</string>
+    <string name="ussd_response">USSD RESPONSE</string>
+</resources>
